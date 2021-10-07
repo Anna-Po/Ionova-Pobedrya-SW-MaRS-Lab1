@@ -1,0 +1,27 @@
+Fri Oct 08 00:06:22 2021
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Fri Oct 08 00:06:22 2021
+No ARsim registration found!
+
+Fri Oct 08 00:06:22 2021
+InstanceName: 01d7bbbf2ec355a0
+
+Fri Oct 08 00:06:22 2021
+WorkingDirectory: D:\BrAutomation45\tollko_plc\Temp\Simulation\Config1\4PP065_0571_P74\
+
+Fri Oct 08 00:06:22 2021
+COMMAND_COLDSTART
+
+Fri Oct 08 00:06:25 2021
+Version: D4.52
+
+Fri Oct 08 00:07:47 2021
+COMMAND_TERMINATE
+
+Fri Oct 08 00:07:47 2021
+COMMAND_COLDSTART
+
+Fri Oct 08 00:07:50 2021
+Version: D4.52
+
